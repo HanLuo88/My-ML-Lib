@@ -31,5 +31,5 @@ def findK(k):
 
 for kvalue in range(1,101):
     k, acc = findK(kvalue)
-    print('K:: ', k, 'Accuracy: ', acc)
+    print('K: ', k, '   Accuracy: ', acc)
 
